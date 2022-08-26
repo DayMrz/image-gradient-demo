@@ -1,0 +1,9 @@
+    
+    .not {
+        padding: 16px;
+        margin-top: 16px;
+        background-color: #167ac6;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
